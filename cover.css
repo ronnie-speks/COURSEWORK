@@ -12,7 +12,9 @@ body{
 }
 .hero{
     background: white;
-    width: 80%;
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
     padding: 40px;
     border: 2px solid #ffffff;
     border-radius: 10px;
@@ -73,9 +75,10 @@ body{
     font-size: 18px;
 }
 .foot{
-      width: 100%;
+      width: 90%;
       text-align: center;
-      margin-top: 20px;
+      margin: 20px auto;
+      max-width: 800px;
     }
 .p{
     margin: 5px 0;
@@ -95,4 +98,3 @@ body{
         font-size: 20px;
     }
 }
-
